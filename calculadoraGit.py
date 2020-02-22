@@ -38,8 +38,11 @@ while x!=1:
     if n>0 and n<5 and b!=0:
      print(resultado)
         
-            
+            #esto es una prueba git, sigue siendo git
+             # sigue siendo git
 
+
+print('git')
 
 
   
